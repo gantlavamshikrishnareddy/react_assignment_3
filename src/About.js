@@ -13,21 +13,10 @@ const Research = (props) => {
                    
                        
                     <div class="cat">
-                 <img src="https://lh4.googleusercontent.com/TgYBLLBtQRNa_l-HBuW9snB_lgtnl63fGNG8tT7JKbdjo08K-xkCf9WfGbbAlfppvtCdwU6owIUsEUu4OMCazhSKxBQgk-ii4P6F27KI3NHVByzB=w1280" alt='/about' />
+                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvRh6DLAw_6ruiEdfuAcG3f8oxcgr1e0n1sw&usqp=CAU" alt ='/about'/>
                      </div>
-                        
-                        
-                  
-                    
-
-                
-
-</div>
-               
-                      
-                                
-                                    
-                                    <span style={{ fontSize: '11pt', verticalAlign: 'baseline' }}><b>Non-visual Digital Graphics on Touchscreens</b><br/>
+                        </div>
+                <span style={{ fontSize: '11pt', verticalAlign: 'baseline' }}><b>Non-visual Digital Graphics on Touchscreens</b><br/>
 A multidisciplinary approach to creating accessible digital graphics on vibratory touchscreens for non-visual use, especially for use as an educational tool.</span>
                                         <br/>
                                         <div class="cat">
